@@ -1,4 +1,3 @@
 bin-utilities
 =============
-
-bjensens personal collection of helpful scripts
+* old - Opens the latest file of a director in a editor of your choice. Usage: old db/migrate
